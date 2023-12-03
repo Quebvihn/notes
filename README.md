@@ -16,7 +16,8 @@ The Note Taker Application is a web-based tool that allows users to create, save
 - Clear form and save note buttons for a smooth user experience.
 - Efficient organization of notes with the ability to delete them.
 
-![image](https://github.com/Quebvihn/notes/assets/92743791/71232196-1f7f-4b78-b0d0-a72ba50e2c59)
+![image](https://github.com/Quebvihn/notes/assets/92743791/065e4edc-067f-49de-b3a4-e4c4c71e5be4)
+
 
 
 ## Usage
